@@ -1,5 +1,7 @@
 package br.unb.cic.lp.gol;
 
+// First Commit
+
 public class Cell {
 	private boolean alive = false;
 
